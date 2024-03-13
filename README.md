@@ -1,5 +1,5 @@
 # LIBRARY_MANAGEMENT_SYSTEM
-I have made the console based library management system in java application.It has classes
+I have made a simple console-based library management system in java application developed to enhance efficiency and track the library resources. It has various tasks such as add user, add books, purchase books, return books and search by id.It has classes
 #### Book:
 It has book attributes.
 #### User:
