@@ -8,10 +8,15 @@ It has user attributes.
 It has methods like add books,add users,borrow books return bookssearch books by id.
 #### Main
 It is starting point of program.it has menu driven interface which allow users to enter their choices.
+## Prerequistes:
+Eclipse IDE
 ## How to run
-To run this program you need Java IDE. There are many IDE's available but i have used eclipse.It has simple interface and easy to use.
-You need to download eclipse from thier official website and follow the installation steps available on their website and finally launch it
-on your PC.Now create new project in eclipse IDE and run the program of library management system.
+To run this project in Eclipse IDE, follow these steps:
+1. Clone or download this repository to your local machine.
+2. Open Eclipse IDE.
+3. Select **File** > **Open Projects from File System** from the top menu.
+4. Click on **Directory** and navigate to the directory where you cloned or downloaded the repository.
+5. Select the project folder and click **Finish**.
 ## Methods:
 Some of the methods include in this java application are
 ## add_book
@@ -34,6 +39,3 @@ It will save book in file.
 It will save user in file.
 ## load_data
 It will load data from file back to array after running application again.
-
-
-
