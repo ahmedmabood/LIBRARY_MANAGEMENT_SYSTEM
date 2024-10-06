@@ -42,5 +42,7 @@ It will load data from file back to array after running application again.
 
 
 
-![image](https://github.com/user-attachments/assets/0b998c79-e7f3-4b72-bc6e-d90a70970539)
+## screen shots
+![image](https://github.com/user-attachments/assets/fa5018c4-385a-4877-af86-71d0e2826336)
+
 
